@@ -61,3 +61,6 @@ Ans: Please find code in Q5 folder and you can run it using xcode 12.1 and minim
 
 ```{"success":false,"error":{"code":105,"type":"base_currency_access_restricted"}}```
 
+|             Main Page         |         Currency Selection Page          | 
+|---------------------------------|------------------------------|
+|![Demo](https://github.com/mwaqasbhati/iOSTestAPP/blob/main/Screenshots/MainPage.png)|![Demo](https://github.com/mwaqasbhati/iOSTestAPP/blob/main/Screenshots/CurrencyListPage.png)|
