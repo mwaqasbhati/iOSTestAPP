@@ -3,7 +3,7 @@
 //  CurrencyConverterUITests
 //
 //  Created by M Waqas on 25/03/19.
-//  Copyright © 2019 CelerStudio. All rights reserved.
+//  Copyright © 2019 MWaqas. All rights reserved.
 //
 
 import XCTest

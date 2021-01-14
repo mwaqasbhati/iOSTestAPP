@@ -3,7 +3,7 @@
 //  CurrencyConverter
 //
 //  Created by M Waqas on 29/09/16.
-//  Copyright © 2016 CelerStudio. All rights reserved.
+//  Copyright © 2020 MWaqas. All rights reserved.
 //
 
 #ifndef CurrencyConverter_Bridging_Header_h
